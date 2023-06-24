@@ -3,7 +3,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=THETHUNDER8&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=THETHUNDER8&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=ClaudioAlex186](https://github-readme-stats.vercel.app/api?username=THETHUNDER8&)&count_private=true&show_icons=true&theme=tokyonight)
- [![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAlex186](https://github-readme-stats.vercel.app/api?username=THETHUNDER8&)&count_private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=THETHUNDER8&count_private=true&show_icons=true&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api?username=THETHUNDER8&count_private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
